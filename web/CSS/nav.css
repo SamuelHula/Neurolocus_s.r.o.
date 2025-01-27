@@ -1,0 +1,30 @@
+.navbar{
+   width: 100%;
+
+   display: flex;
+   justify-content: center;
+   align-content: center; 
+
+   padding: 5% 0 2.5% 0;
+
+   background-image: url(../images/nav_back.png);
+   background-position: center;
+   background-repeat: no-repeat;
+}
+.nav_list{
+   width: 90%;
+
+   display: flex;
+   justify-content: space-around ;
+   align-items: center;
+
+   padding: 2.5% 0;
+   border-bottom: black 1px solid;
+}
+.nav_list a{
+   font: 1.3rem Verdana;
+
+   text-decoration: none;
+
+   color: var(--gray-text);
+}

@@ -1,0 +1,17 @@
+header{
+   width: 100%;
+
+   display: flex;
+   justify-content: start;
+   align-items: center;
+
+   padding: 10% 0;
+
+   position: relative;
+}
+header img{
+   width: 50%;
+
+   position: absolute;
+   top: 50;
+}

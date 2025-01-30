@@ -34,6 +34,11 @@ header strong{
    text-align: justify;
 
    line-height: 2;
+
+   background-image: url(../images/striekacka.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 .article1 strong{
    font-weight: bold;

@@ -52,7 +52,8 @@ header strong{
 .article1 p:first-child strong{
    font-weight: bold;
 }
-.article1 aside.sona, .article2 aside.adriana{
+.article1 aside.sona,
+.article2 aside.adriana{
    width: 100%;
 
    display: flex;
@@ -69,13 +70,16 @@ header strong{
 
    margin: 0 0 5% 0;
 }
-.article1 figure, .article2 figure{
+.article1 figure,
+.article2 figure{
    width: 45%;
 }
-.article1 figure img, .article2 figure img{
+.article1 figure img,
+.article2 figure img{
    width: 100%;
 }
-.article1 .education, .article2 .education{
+.article1 .education,
+.article2 .education{
    width: 100%;
 
    line-height: 5;
@@ -83,21 +87,31 @@ header strong{
 .article2 .education{
    line-height: 6;
 }
-.article1 .education strong, .article2 .education strong{
+.article1 .education strong, 
+.article2 .education strong{
    font: bold 1.5rem Verdana;
 }
-.article1 .education div, .article2 .education div{
+.article1 .education div,
+.article2 .education div{
    display: flex;
    justify-content: start;
+
+   width: 100%;
 }
-.article1 .education em, .article2 .education em{
+.article1 .education em,
+.article2 .education em{
    margin-right: 5%;
 }
-.article1 .education div div, .article2 .education div div{
+.article1 .education div div,
+.article2 .education div div{
    flex-direction: column;
    justify-content: start;
 
+   width: 80%;
+
    line-height: 2;
+
+   margin: 2% 0;
 }
 .article1 .education div div .italic{
    font-style: italic;
@@ -111,5 +125,7 @@ header strong{
 }
 .article2 ul{
    list-style-type: circle;
+
+   margin-left: 5%;
 }
 /*MAIN*/

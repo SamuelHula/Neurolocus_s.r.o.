@@ -59,4 +59,5 @@
 }
 .navigation ul li.first{
    background-image: url(../images/link1.png);
+   background-size: cover;
 }

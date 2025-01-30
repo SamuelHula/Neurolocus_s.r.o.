@@ -1,3 +1,10 @@
+body{
+   background-image: url(../images/kladivko.png);
+   background-position: top;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
 /*HEADER*/
 header{
    width: 100%;
@@ -39,7 +46,7 @@ header strong{
    line-height: 2;
 }
 .article1 table{
-   margin-top: 5%;
+   margin: 7% 0;
 
    width: 50%;
 

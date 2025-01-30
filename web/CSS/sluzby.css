@@ -1,0 +1,98 @@
+body{
+   overflow-x: hidden;
+}
+/*HEADER*/
+header{
+   width: 100%;
+
+   display: flex;
+   justify-content: start;
+   align-items: center;
+
+   padding: 15% 0;
+
+   position: relative;
+}
+header img.hand{
+   width: 75%;
+
+   margin-top: -75px;
+   margin-right: -175px;
+
+   position: absolute;
+   top: 50;
+   right: 0;
+
+   transform: rotateZ(180deg);
+   transform: rotateY(180deg);
+}
+header img.hand1{
+   width: 75%;
+
+   margin-top: 50%;
+   margin-right: -175px;
+
+   position: absolute;
+   top: 50;
+   right: 0;
+
+   transform: rotateZ(180deg);
+   transform: rotateY(180deg);
+}
+header img.hand2{
+   width: 75%;
+
+   margin-top: 105%;
+   margin-right: -175px;
+
+   position: absolute;
+   top: 50;
+   right: 0;
+
+   transform: rotateZ(180deg);
+   transform: rotateY(180deg);
+}
+header strong{
+   font: bold 5em Verdana;
+
+   margin-left: 5%;
+
+   color: var(--pink-text);
+}
+/*HEADER*/
+
+/*MAIN*/
+.main{
+   width: 100%;
+
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.article1{
+   width: 90%;
+
+   font: 1.2em Verdana;
+
+   text-align: justify;
+
+   line-height: 2;
+}
+.article1 strong{
+   font-weight: bold;
+}
+.article1 ul{
+   list-style-type: disc;
+
+   margin-left: 5%;
+}
+.article1 h2{
+   font: bold 2rem Verdana;
+
+   margin: 4% 0 2% 0; 
+}
+.article1 h3{
+   font: lighter 1.5rem Verdana;
+   margin: 1% 0;
+}
+/*MAIN*/

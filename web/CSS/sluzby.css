@@ -55,7 +55,7 @@ header img.hand2{
 header strong{
    font: bold 5em Verdana;
 
-   margin-left: 5%;
+   margin-left: 10%;
 
    color: var(--pink-text);
 }
@@ -70,7 +70,7 @@ header strong{
    align-items: center;
 }
 .article1{
-   width: 90%;
+   width: 80%;
 
    font: 1.2em Verdana;
 

@@ -31,7 +31,7 @@
    z-index: 1;
 }
 .nav_list a{
-   font: 1.3rem --text;
+   font: 1.3rem var(--text);
 
    text-decoration: none;
 

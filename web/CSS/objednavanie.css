@@ -9,7 +9,7 @@ header{
    position: relative;
 }
 header strong{
-   font: bold 5em --text;
+   font: bold 5em var(--text);
 
    margin-left: 10%;
    margin-bottom: 2%;
@@ -29,7 +29,7 @@ header strong{
 .article1{
    width: 80%;
 
-   font: 1.5rem --text;
+   font: 1.5rem var(--text);
 
    text-align: justify;
 

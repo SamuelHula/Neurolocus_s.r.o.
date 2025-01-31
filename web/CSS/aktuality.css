@@ -43,4 +43,22 @@ header strong{
 .article1 strong{
    font-weight: bold;
 }
+@media screen and (max-width: 1279px){
+   header{
+      justify-content: center;
+   }
+   header strong{
+      text-align: center;
+
+      font-size: 4rem;
+
+      margin-left: 0;
+      margin-bottom: 10%;
+   }
+   .article1{
+      font-size: 1.2rem;
+
+      line-height: 1.5;
+   }
+}
 /*MAIN*/

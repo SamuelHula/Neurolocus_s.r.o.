@@ -9,7 +9,7 @@ header{
    position: relative;
 }
 header strong{
-   font: bold 5em "Calibri";
+   font: bold 5em --text;
 
    margin-left: 10%;
    margin-bottom: 2%;
@@ -29,7 +29,7 @@ header strong{
 .article1{
    width: 80%;
 
-   font: 1.5rem "Calibri";
+   font: 1.5rem --text;
 
    text-align: justify;
 

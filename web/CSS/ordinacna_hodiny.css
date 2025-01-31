@@ -16,7 +16,7 @@ header{
    position: relative;
 }
 header strong{
-   font: bold 5em "Calibri";
+   font: bold 5em --text;
 
    margin-left: 10%;
 
@@ -39,7 +39,7 @@ header strong{
    justify-content: center;
    align-items: center;
 
-   font: 2rem "Calibri";
+   font: 2rem --text;
 
    text-align: justify;
 

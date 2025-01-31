@@ -38,7 +38,7 @@ header strong{
    background-image: url(../images/striekacka.png);
    background-position: center;
    background-repeat: no-repeat;
-   background-size: cover;
+   background-size: contain;
 }
 .article1 strong{
    font-weight: bold;

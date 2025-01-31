@@ -48,9 +48,13 @@
    position: relative;
    z-index: 1;
 
-   padding: 1%;
+   padding: 1% 2%;
 
    font: 2rem Verdana;
+
+   background-size: contain;
+   background-position: center;
+   background-repeat: no-repeat;
 }
 .navigation ul li a{
    text-decoration: none;
@@ -59,5 +63,25 @@
 }
 .navigation ul li.first{
    background-image: url(../images/link1.png);
-   background-size: cover;
+}
+.navigation ul li.second{
+   background-image: url(../images/link2.png);
+}
+.navigation ul li.third{
+   background-image: url(../images/link3.png);
+}
+.navigation ul li.fourth{
+   background-image: url(../images/link4.png);
+}
+.navigation ul li.fifth{
+   background-image: url(../images/link5.png);
+}
+.navigation ul li.sixth{
+   background-image: url(../images/link6.png);
+}
+.navigation ul li.seventh{
+   background-image: url(../images/link7.png);
+}
+.navigation ul li.eighth{
+   background-image: url(../images/link8.png);
 }

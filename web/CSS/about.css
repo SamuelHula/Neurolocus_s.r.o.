@@ -24,7 +24,7 @@ header img{
    transform: rotateY(180deg);
 }
 header strong{
-   font: bold 5em var(--text);
+   font: bold 5em var(--nad);
 
    margin-left: 10%;
 
@@ -66,7 +66,7 @@ header strong{
    width: 45%;
 }
 .text strong{
-   font: bold 2rem var(--text);
+   font: bold 2rem var(--bold_text);
 
    margin: 0 0 5% 0;
 }

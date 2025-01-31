@@ -31,7 +31,7 @@
    color: var(--gray-text);
 }
 .navigation aside h1{
-   font: 4rem var(--text);
+   font: 4rem var(--nad);
 }
 .navigation aside p{
    font: 1.5rem var(--text);

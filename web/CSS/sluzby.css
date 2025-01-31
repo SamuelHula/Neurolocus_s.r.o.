@@ -53,7 +53,7 @@ header img.hand2{
    transform: rotateY(180deg);
 }
 header strong{
-   font: bold 5em var(--text);
+   font: bold 5em var(--nad);
 
    margin-left: 10%;
 

@@ -9,7 +9,7 @@ header{
    position: relative;
 }
 header strong{
-   font: bold 5em var(--text);
+   font: bold 5em var(--nad);
 
    margin-left: 10%;
    margin-bottom: 2%;

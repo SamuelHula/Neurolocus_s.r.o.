@@ -6,8 +6,6 @@ header{
    justify-content: start;
    align-items: center;
 
-   padding: 15% 0;
-
    position: relative;
    overflow: hidden;
 }
@@ -89,6 +87,8 @@ header strong{
 }
 .article1 .education strong, 
 .article2 .education strong{
+   display: block;
+
    font: bold 1.5rem var(--text);
 }
 .article1 .education div,
@@ -127,5 +127,62 @@ header strong{
    list-style-type: circle;
 
    margin-left: 5%;
+}
+@media screen and (max-width: 1279px){
+   header{
+      justify-content: center;
+   }
+   header img{
+      display: none;
+   }
+   header strong{
+      font-size: 4rem;
+
+      margin: 0;
+      margin-bottom: 10%;
+   }
+   .article1, .article2{
+      font-size: 1rem;
+
+      line-height: 1.5;
+
+      text-align: left;
+   }
+   .article1 aside.sona,
+   .article2 aside.adriana{
+      flex-wrap: wrap;
+   }
+   .article1 figure,
+   .article2 figure{
+      width: 100%;
+   }
+   .text{
+      width: 100%;
+   }
+   .article1 .education,
+   .article2 .education{
+      line-height: 1.5;
+   }
+   .article2 .education{
+      line-height: 1.5;
+   }
+   .article1 .education strong, 
+   .article2 .education strong{
+      margin: 10% 0 7% 0;
+   }
+   .article1 .education div,
+   .article2 .education div{
+      margin: 4% 0;
+
+      justify-content: space-between;
+   }
+   .article1 .education div div,
+   .article2 .education div div{
+      width: 60%;
+
+      margin: 0;
+
+      text-align: left;
+   }
 }
 /*MAIN*/

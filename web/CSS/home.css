@@ -31,10 +31,10 @@
    color: var(--gray-text);
 }
 .navigation aside h1{
-   font: 4rem Verdana;
+   font: 4rem "Calibri";
 }
 .navigation aside p{
-   font: 1.5rem Verdana;
+   font: 1.5rem "Calibri";
 }
 .navigation ul img{
    position: absolute;
@@ -57,7 +57,7 @@
    box-sizing: border-box;
    padding: 20px 40px;
 
-   font: 2rem Verdana;
+   font: 2rem "Calibri";
 
    background-size: contain;
    background-position: center;
@@ -100,10 +100,10 @@
    }
    .navigation aside h1{
       margin-top: 20%;
-      font: 2.5rem Verdana;
+      font: 2.5rem "Calibri";
    }
    .navigation aside p{
-      font: 1rem Verdana;
+      font: 1rem "Calibri";
    }
    .navigation{
       flex-direction: column;
@@ -113,7 +113,7 @@
       height: 80vh;
    }
    .navigation ul li{
-      font: 1.2rem Verdana;
+      font: 1.2rem "Calibri";
       padding: 10px 20px;
    }
 }

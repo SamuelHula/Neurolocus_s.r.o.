@@ -53,7 +53,7 @@ header img.hand2{
    transform: rotateY(180deg);
 }
 header strong{
-   font: bold 5em Verdana;
+   font: bold 5em "Calibri";
 
    margin-left: 10%;
 
@@ -72,7 +72,7 @@ header strong{
 .article1{
    width: 80%;
 
-   font: 1.2rem Verdana;
+   font: 1.2rem "Calibri";
 
    text-align: justify;
 
@@ -87,12 +87,12 @@ header strong{
    margin-left: 5%;
 }
 .article1 h2{
-   font: bold 2rem Verdana;
+   font: bold 2rem "Calibri";
 
    margin: 4% 0 2% 0; 
 }
 .article1 h3{
-   font: lighter 1.5rem Verdana;
+   font: lighter 1.5rem "Calibri";
    margin: 1% 0;
 }
 /*MAIN*/

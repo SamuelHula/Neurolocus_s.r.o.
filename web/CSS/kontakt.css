@@ -9,7 +9,7 @@ header{
    position: relative;
 }
 header strong{
-   font: bold 5em Verdana;
+   font: bold 5em "Calibri";
 
    margin-left: 10%;
    margin-bottom: 2%;
@@ -33,7 +33,7 @@ header strong{
    justify-content: space-between;
    align-items: center;
 
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-family: "Calibri", Geneva, Tahoma, sans-serif;
 
    text-align: justify;
 
@@ -43,7 +43,7 @@ header strong{
    width: 30%;
 }
 .article1 strong{
-   font: bold 1.5rem Verdana;
+   font: bold 1.5rem "Calibri";
 }
 .article1 a{
    cursor: pointer;

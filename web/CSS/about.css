@@ -24,7 +24,7 @@ header img{
    transform: rotateY(180deg);
 }
 header strong{
-   font: bold 5em Verdana;
+   font: bold 5em "Calibri";
 
    margin-left: 10%;
 
@@ -43,7 +43,7 @@ header strong{
 .article1, .article2{
    width: 80%;
 
-   font: 1.2rem Verdana;
+   font: 1.2rem "Calibri";
 
    text-align: justify;
 
@@ -66,7 +66,7 @@ header strong{
    width: 45%;
 }
 .text strong{
-   font: bold 2rem Verdana;
+   font: bold 2rem "Calibri";
 
    margin: 0 0 5% 0;
 }
@@ -89,7 +89,7 @@ header strong{
 }
 .article1 .education strong, 
 .article2 .education strong{
-   font: bold 1.5rem Verdana;
+   font: bold 1.5rem "Calibri";
 }
 .article1 .education div,
 .article2 .education div{

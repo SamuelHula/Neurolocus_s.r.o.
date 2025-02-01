@@ -71,4 +71,26 @@
 
    font: 1.2rem var(--nad);
 }
+@media screen and (max-width: 1545px){
+   .art1 aside{
+      width: 60%;
+   }
+   .art1 aside form{
+      padding: 2.5%;
+   }
+   .art1 aside form fieldset label{
+      margin: 1% 0;
+   }
+}
+@media screen and (max-width: 879px) {
+   .art1 aside form fieldset input{
+      padding: 1.5%;
+   }
+   .art1 aside{
+      width: 80%;
+   }
+   .art1 aside form fieldset legend{
+      font-size: 1.2rem;
+   }
+}
 /*MAIN*/

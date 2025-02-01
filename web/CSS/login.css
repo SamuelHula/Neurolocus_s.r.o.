@@ -23,7 +23,6 @@
 }
 .art1 aside{
    width: 30%;
-   height: 40vh;
 
    border-radius: 20px;
 
@@ -54,10 +53,27 @@
 }
 .art1 aside form fieldset input{
    padding: 3.5%;
+
+   margin: 2% 0;
 }
 .art1 a{
    margin-top: 20px;
 
    font: 1.2rem var(--nad);
+}
+@media screen and (max-width: 1279px){
+   .art1 aside{
+      width: 60%;
+   }
+}
+@media screen and (max-width: 703px){
+   .art1 aside{
+      width: 80%;
+   }
+   .art1 aside form fieldset legend{
+      font-size: 1.2rem;
+
+      text-align: center;
+   }
 }
 /*MAIN*/

@@ -45,6 +45,9 @@
 .heading{
    display: none;
 }
+.nav_list .active{
+   text-decoration: underline;
+}
 @media screen and (max-width: 1279px){
    .navbar{
       margin-bottom: 10%;

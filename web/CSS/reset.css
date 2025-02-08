@@ -40,3 +40,12 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+.scroll-element2{
+	opacity: 0;
+	transform: translateX(-100px); 
+	transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+.scrolled2{
+	opacity: 1;
+	transform: translateX(0);
+}

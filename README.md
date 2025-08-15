@@ -1,4 +1,4 @@
-# Neurolocus s.r.o. – Neurologická ambulancia pre dospelých
+# Neurolocus s.r.o. – Neurological outpatient clinic for adults
 
 <img src="neurolocus.png">
  
@@ -15,4 +15,5 @@ Neurolocus s.r.o. is a website of a neurological outpatient clinic for adults. T
 - **CSS Frameworks**: Custom CSS with CSS variables
 - **Fonts**: Google Fonts
 - **Animations**: Custom JavaScript animations
+
 
